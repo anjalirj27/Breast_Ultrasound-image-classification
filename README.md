@@ -169,25 +169,6 @@ This work contributes to:
 - [ ] Conduct multi-center validation studies
 - [ ] Incorporate patient metadata for improved predictions
 
-## Citation
-
-If you use this project in your research or clinical work, please cite:
-
-```bibtex
-@project{breastultrasound2026,
-  title={Deep Learning Based Classification of Breast Ultrasound Images},
-  author={Raje, Anjali},
-  year={2026},
-  url={https://github.com/anjalirj27/Breast_Ultrasound-image-classification}
-}
-```
-
-## Author
-
-**Anjali Raje** (anjalirj27)
-- GitHub: [@anjalirj27](https://github.com/anjalirj27)
-- Focus: Medical image analysis, Deep learning, Computer vision
-
 ## License
 
 This project is open-source and available for educational and research purposes.
