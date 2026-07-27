@@ -180,13 +180,4 @@ This project is open-source and available for educational and research purposes.
 - PyTorch and scientific Python communities
 - Medical imaging research community
 
-## Contact & Support
-
-For questions, suggestions, or collaboration opportunities:
-- Open an issue on GitHub
-- Check the discussion section
-- Review the detailed PDF report for methodology specifics
-
----
-
 **Note**: This is an educational and research project. Any clinical application should be validated with medical professionals and comply with healthcare regulations (HIPAA, FDA, etc.).
